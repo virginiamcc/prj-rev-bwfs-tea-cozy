@@ -76,7 +76,8 @@ nav li {
 
 /* Main Container
 --------------------------*/
-.main-container {
+.main-container,
+.footer {
   width: 1200px;
   margin: 0 auto;
 }
@@ -147,9 +148,6 @@ nav li {
 
 /* Footer
 -------------------------*/
-.footer {
-  margin: 0 auto;
-}
 
 .contact {
   height: 200px;
