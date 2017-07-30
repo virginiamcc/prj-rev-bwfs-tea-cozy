@@ -147,6 +147,10 @@ nav li {
 
 /* Footer
 -------------------------*/
+.footer {
+  margin: 0 auto;
+}
+
 .contact {
   height: 200px;
 }
